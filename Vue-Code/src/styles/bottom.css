@@ -1,0 +1,132 @@
+@charset "UTF-8";
+.bottom-wap {
+    display: none;
+}
+
+.bottom-wap .bottom-img1, .bottom-wap .bottom-img2 {
+    float: none;
+    margin: 0;
+}
+
+@media screen and (max-width:640px) {
+
+    body, .lsw-bg {
+        background: none;
+    }
+
+     .bottom{
+        display: none;
+    }
+
+   .bottom-wap {
+        display: block;
+    }
+
+}
+
+.btlf{ float:left;}
+.btrt{ float:right;}
+body{color: #000;font-family: "Microsoft YaHei";font-size: 0;}
+a{text-decoration:none;cursor: pointer;color: #333;}
+.bottomw-container{
+    max-width: 1200px;
+    margin: 0 auto;
+	min-width:995px;
+}
+.bottom{
+    margin-top: 36px;
+}
+
+.bottom-help{
+    height: 129px;
+}
+.bottom-img1{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 22px;
+    float: left;
+}
+.bottom-text{
+    margin-top: 16px;
+}
+.bottom-text .bottom-tit{
+    color: #535353;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 14px;
+}
+.bottom-text .bottom-text1{
+    color: #6e6e6e;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.bottom-text .bottom-text1 span{
+    display: inline-block;
+    margin-right: 30px;
+}
+.bottom-list { margin-top: 22px;float: right;}
+.bottom-list a{
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    margin: 0 9px;
+}
+.bottom-list a .bt-tt{
+    color: #535353;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.bottom-list a:hover{
+    font-weight: bold;
+}
+.bottom-img2{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.bottom-wap{
+	height: 1.88rem;
+	border-top: .03rem solid #1571c9;
+}
+.bottom-help-wap{
+	text-align: center;
+	padding-top: .24rem;
+	padding-bottom: .1rem;
+}
+.bottom-help-wap .bt-tit{
+	color: #1a74ca;
+	font-size: .28rem;
+	font-weight: bold;
+	display: inline-block;
+	margin-left: .28rem;
+	margin-right: .32rem;
+}
+.bottom-help-wap a{
+	display: inline-block;
+}
+.bottom-help-wap .bottom-img1 img{
+	display: inline-block;
+	width: .46rem;
+	height: .56rem;
+}
+.bottom-help-wap .bottom-img2 img{
+	width: 1.13rem;
+	height: .54rem;
+}
+.bottom-info-wap{
+	text-align: center;
+}
+.bottom-info-wap p span{
+	color: #6e6e6e;
+	font-size: .2rem;
+	display: inline-block;
+	margin-right: .42rem;
+	line-height: .3rem;
+}
+.bottom-info-wap p span:last-child{
+	margin-right: 0;
+}
+span#_span_jiucuo { float: left;
+    padding-top: 33px;
+    margin-left: 30px;
+}
+

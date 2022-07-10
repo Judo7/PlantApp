@@ -1,0 +1,40 @@
+
+C
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+M
+java:S1128"9Remove this unused import 'javax.servlet.ServletContext'.(á¡æŞ
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+?
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+J
+java:S1128"6Remove this unused import 'com.java.utils.StringUtil'.(–·ãÌ
+=
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+J
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+D
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+F
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+H
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š·• 
+D
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+N
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ
+K
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+V
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
+E
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µ²
+H
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+D
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+P
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ

@@ -1,0 +1,36 @@
+
+R
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ
+Y
+java:S37529">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ
+L
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+n
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íþ¡þÿÿÿÿ
+Y
+java:S3752c">Add a "method" parameter to this "@RequestMapping" annotation.(œÛ´çÿÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(óìû’þÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+m
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ðÿûÿÿÿÿ
+c	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛûÉÌ
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºýÿÿÿÿ
+T
+java:S3752U">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ
+e
+java:S11924"JDefine a constant instead of duplicating this literal "introduce" 3 times.(ýó»öúÿÿÿÿ
+T
+java:S3752/">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±
+c
+java:S2441s"MMake "List" and its parameters serializable or don't store it in the session.(§ÕŸ³
+]
+java:S1192E"HDefine a constant instead of duplicating this literal "success" 3 times.(»˜µ
+T
+java:S3752n">Add a "method" parameter to this "@RequestMapping" annotation.(ÉŸ³™
+2
+java:S1116"Remove this empty statement.(Ýšƒª
+c	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¡ß—
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã´§Íúÿÿÿÿ

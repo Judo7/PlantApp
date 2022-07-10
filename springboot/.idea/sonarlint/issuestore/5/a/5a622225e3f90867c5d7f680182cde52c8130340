@@ -1,0 +1,56 @@
+
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+T
+java:S3752e">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ
+W	java:S125¦"<This block of commented-out lines of code should be removed.(£ì®ñûÿÿÿÿ
+Q
+java:S1128 "6Remove this unused import 'com.java.utils.StringUtil'.(àİÊ÷ıÿÿÿÿ
+j
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.InitBinder'.(±÷“ìøÿÿÿÿ
+R
+java:S1854L"7Remove this useless assignment to local variable "map".(™ºöºıÿÿÿÿ
+f
+java:S1192k"KDefine a constant instead of duplicating this literal "startindex" 4 times.(ªşğîúÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+L
+java:S1128	"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
+C
+java:S1481L"(Remove this unused "map" local variable.(™ºöºıÿÿÿÿ
+^
+java:S1192­"HDefine a constant instead of duplicating this literal "success" 3 times.(»˜µ
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+S
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(×›Ş`
+n
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'org.springframework.web.bind.WebDataBinder'.(Æ¬á³ùÿÿÿÿ
+r
+java:S1128"WRemove this unused import 'org.springframework.beans.propertyeditors.CustomDateEditor'.(°»Çıÿÿÿÿ
+7
+java:S1116 "Remove this empty statement.(àİÊ÷ıÿÿÿÿ
+d	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÆÙÏ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+M
+java:S1135B"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+T	java:S106“"9Replace this use of System.out or System.err by a logger.(ØÔ«áøÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇî
+a
+java:S4488Ÿ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â¡’Ä
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+t
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+>
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+java:S3752:">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±
+c	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÂÍà
+Y
+java:S3752I">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ

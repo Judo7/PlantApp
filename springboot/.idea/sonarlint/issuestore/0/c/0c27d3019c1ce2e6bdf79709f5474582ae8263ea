@@ -1,0 +1,47 @@
+
+d	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛûÉÌ
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ØÔ«áøÿÿÿÿ
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+n
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ
+T
+java:S3752@">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±
+h	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¡‘úÿÿÿÿ
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÛĞ
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
+a
+java:S4488±"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â¡’Ä
+7
+java:S1116 "Remove this empty statement.(àİÊ÷ıÿÿÿÿ
+T
+java:S3752q">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ
+c	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇî
+Z
+java:S3752£">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÊãùşÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(£ì®ñûÿÿÿÿ
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+M
+java:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Q
+java:S1128 "6Remove this unused import 'com.java.utils.StringUtil'.(àİÊ÷ıÿÿÿÿ
+T
+java:S3752‰">Add a "method" parameter to this "@RequestMapping" annotation.(×›Ş`
+f
+java:S1192v"KDefine a constant instead of duplicating this literal "startindex" 4 times.(ªşğîúÿÿÿÿ
+L
+java:S1128	"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+Y
+java:S3752R">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+]
+java:S1192a"HDefine a constant instead of duplicating this literal "success" 6 times.(»˜µ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+>
+java:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

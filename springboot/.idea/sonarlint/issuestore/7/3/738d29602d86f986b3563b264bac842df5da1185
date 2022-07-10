@@ -1,0 +1,47 @@
+
+Y
+java:S3752X">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ
+T
+java:S3752@">Add a "method" parameter to this "@RequestMapping" annotation.(ïÈÒÓ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+Y
+java:S3752P">Add a "method" parameter to this "@RequestMapping" annotation.(·±€Êøÿÿÿÿ
+h	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğó¾¨şÿÿÿÿ
+z
+java:S1845Y"_Rename method "Add" to prevent any misunderstanding/clash with method "add" defined on line 50.(ÇÁìûÿÿÿÿ
+h	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ê®™üÿÿÿÿ
+b
+java:S1192:"GDefine a constant instead of duplicating this literal "client" 7 times.(³ƒ®ÿÿÿÿÿ
+L
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+2
+java:S1116"Remove this empty statement.(øÈÖÑ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "success" 3 times.(»˜µ
+h	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÁìûÿÿÿÿ
+T
+java:S3752H">Add a "method" parameter to this "@RequestMapping" annotation.(ñû¢ò
+R
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜóúÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ
+j
+java:S1128"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(øÈÖÑ
+T
+java:S37521">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±
+c	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇî
+T
+java:S37527">Add a "method" parameter to this "@RequestMapping" annotation.(Á‚×”
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
+a
+java:S4488ƒ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â¡’Ä
+T
+java:S3752j">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(øÈÖÑ

@@ -1,0 +1,63 @@
+
+c	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¡ß—
+2
+java:S1116"Remove this empty statement.(øÈÖÑ
+U
+java:S3752–">Add a "method" parameter to this "@RequestMapping" annotation.(ô¸èÉ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+i	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¿ıøıÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ö¡¹ê
+^
+java:S1192X"IDefine a constant instead of duplicating this literal "success" 13 times.(»˜µ
+m
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ
+I
+java:S1128"4Remove this unused import 'com.java.utils.PageList'.(£€”}
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(‚Îç…ùÿÿÿÿ
+h	java:S100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‡ìÿùÿÿÿÿ
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+T
+java:S3752h">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ
+R
+java:S2441¨";Make "Admin" serializable or don't store it in the session.(Œ‡í÷
+j
+java:S1128"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(øÈÖÑ
+R
+java:S2441Â";Make "Admin" serializable or don't store it in the session.(îÜ´“
+L
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+]
+java:S1192¨"FDefine a constant instead of duplicating this literal "admin" 4 times.(Œ‡í÷
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œôãÄøÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(øÈÖÑ
+T
+java:S37525">Add a "method" parameter to this "@RequestMapping" annotation.(Á‚×”
+T
+java:S3752:">Add a "method" parameter to this "@RequestMapping" annotation.(ñû¢ò
+T
+java:S3752/">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±
+c	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Òµª
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìí×¡
+V	java:S125~"<This block of commented-out lines of code should be removed.(£ì®ñûÿÿÿÿ
+Y
+java:S3752w">Add a "method" parameter to this "@RequestMapping" annotation.(ŸŒúÿÿÿÿ
+Y
+java:S3752K">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ
+U
+java:S3752Ó">Add a "method" parameter to this "@RequestMapping" annotation.(îï¤Ş
+Z
+java:S3752·">Add a "method" parameter to this "@RequestMapping" annotation.(§­Û†üÿÿÿÿ
+t
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ

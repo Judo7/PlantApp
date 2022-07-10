@@ -1,0 +1,66 @@
+
+Y
+java:S1128"7Remove this unused import 'com.java.utils.CommonUtils'.(ùæøüÿÿÿÿ8„à´”¨.
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ8„à´”¨.
+9
+java:S1116"Remove this empty statement.(øÈÖÑ8„à´”¨.
+_
+java:S2441È"<Make "Worker" serializable or don't store it in the session.(¥ÜÇ¶üÿÿÿÿ8„à´”¨.
+o	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜóúÿÿÿÿ8„à´”¨.
+o	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷êÈ€şÿÿÿÿ8„à´”¨.
+Z
+java:S2441†"<Make "Worker" serializable or don't store it in the session.(Ò¨Œû8„à´”¨.
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8„à´”¨.
+q
+java:S1128"TRemove this unused import 'com.sun.corba.se.spi.protocol.RequestDispatcherRegistry'.(øÈÖÑ8„à´”¨.
+`
+java:S3752z">Add a "method" parameter to this "@RequestMapping" annotation.(§­Û†üÿÿÿÿ8„à´”¨.
+]	java:S125R"<This block of commented-out lines of code should be removed.(õÖÊøûÿÿÿÿ8„à´”¨.
+p	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‡Îˆüÿÿÿÿ8„à´”¨.
+[
+java:S37529">Add a "method" parameter to this "@RequestMapping" annotation.(Á‚×”8„à´”¨.
+{
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8„à´”¨.
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8„à´”¨.
+h
+java:S4488Ô"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Â¡’Ä8„à´”¨.
+[
+java:S3752D">Add a "method" parameter to this "@RequestMapping" annotation.(ñû¢ò8„à´”¨.
+\
+java:S3752–">Add a "method" parameter to this "@RequestMapping" annotation.(—òõÂ8„à´”¨.
+[
+java:S3752,">Add a "method" parameter to this "@RequestMapping" annotation.(¡Ÿ±8„à´”¨.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(øÈÖÑ8„à´”¨.
+i
+java:S11922"GDefine a constant instead of duplicating this literal "worker" 9 times.(ÁÇâÓûÿÿÿÿ8„à´”¨.
+\
+java:S3752´">Add a "method" parameter to this "@RequestMapping" annotation.(ô¸èÉ8„à´”¨.
+\
+java:S3752ğ">Add a "method" parameter to this "@RequestMapping" annotation.(îï¤Ş8„à´”¨.
+
+java:S1845N"_Rename method "Add" to prevent any misunderstanding/clash with method "add" defined on line 45.(÷êÈ€şÿÿÿÿ8„à´”¨.
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…8„à´”¨.
+j	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÇî8„à´”¨.
+S
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8„à´”¨.
+|
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8„à´”¨.
+[
+java:S3516N"9Refactor this method to not always return the same value.(÷êÈ€şÿÿÿÿ8„à´”¨.
+k	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ö·»8„à´”¨.
+|
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8„à´”¨.
+`
+java:S3752M">Add a "method" parameter to this "@RequestMapping" annotation.(ÚÏšÿÿÿÿÿ8„à´”¨.
+f
+java:S1192Z"IDefine a constant instead of duplicating this literal "success" 14 times.(¼±³š8„à´”¨.
+{
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8„à´”¨.
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(‹ñõ’8„à´”¨.
+o	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°–´ÿÿÿÿÿ8„à´”¨.
+p	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¿ıøıÿÿÿÿ8„à´”¨.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(˜™»üÿÿÿÿ8„à´”¨.
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ8„à´”¨.

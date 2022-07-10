@@ -1,0 +1,8 @@
+[2022-06-30 15:21:07:432] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java.dao]' package. Please check your configuration.
+[2022-06-30 15:21:07:950] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java]' package. Please check your configuration.
+[2022-06-30 15:47:17:007] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java.dao]' package. Please check your configuration.
+[2022-06-30 15:47:17:157] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java]' package. Please check your configuration.
+[2022-06-30 15:50:30:753] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java.dao]' package. Please check your configuration.
+[2022-06-30 15:50:31:014] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java]' package. Please check your configuration.
+[2022-06-30 15:53:19:699] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java.dao]' package. Please check your configuration.
+[2022-06-30 15:53:19:856] [WARN] - org.mybatis.logging.Logger.warn(Logger.java:44) - No MyBatis mapper was found in '[com.java]' package. Please check your configuration.
